@@ -19,7 +19,6 @@
     "compare-versions": "^6.0.0-rc.1",
     "node-build-tools": "^0.3.2",
     "react": "^18.2.0",
-    "security_gate": "^1.1.2",
     "uuid": "^9.0.0"
   }
 }
